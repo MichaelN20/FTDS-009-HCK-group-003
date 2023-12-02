@@ -1,12 +1,10 @@
-**Forecasting Sales for Walmart Stores**
+**Walmart's Inventory Management and Demand Forecasting**
 
 **Members :**
 - Michael Nathaniel
 - Nadia Nabila Shafira
 - Noufal Rifata Reyhan
 - Faris Arief Mawardi
-
-**Title: Forecasting Sales for Walmart Stores**
 
 **Description:**
 This repository contains a comprehensive project aimed at developing a robust sales forecasting model for Walmart stores. The project utilizes various data such as date, store types, promotions, and environmental factors to forecast sales accurately. The insights derived from this model will assist Walmart's management team in optimizing inventory levels, preventing stock imbalances, and enhancing operational efficiency.
