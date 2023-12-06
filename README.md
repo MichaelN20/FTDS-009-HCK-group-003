@@ -1,6 +1,7 @@
 # **Walmart's Inventory Management and Demand Forecasting**
 
-**URL:**
+### **URL:**
+
 [Deployment](https://huggingface.co/spaces/michaeln20/FTDS-009-HCK-group-003) | [Tableau Dashboard](https://public.tableau.com/views/AngkaHarapanHidupInternasional/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 **Members:**
