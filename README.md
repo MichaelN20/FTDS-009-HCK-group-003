@@ -34,5 +34,6 @@ This repository contains a comprehensive project aimed at developing a robust sa
 4. Run the notebooks to reproduce the analysis or modify them as per requirements.
 5. Refer to the README.md for detailed project insights, conclusions, and recommendations.
 
-**Conclusion:**
+### **Conclusion:**
+
 This project endeavors to provide Walmart's management team with an accurate sales forecasting model. By leveraging various factors influencing sales, Walmart aims to optimize inventory management, improve operational efficiency, and ultimately enhance customer satisfaction.
