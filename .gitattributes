@@ -1,1 +1,2 @@
 best_rf.pkl filter=lfs diff=lfs merge=lfs -text
+deployment/best_rf.pkl filter=lfs diff=lfs merge=lfs -text
