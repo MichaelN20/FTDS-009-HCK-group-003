@@ -22,7 +22,7 @@ def run():
     st.header('')
 
     # Memanggil data csv
-    df = pd.read_csv(r'Walmarts_Inventory_Management_and_Demand_Forecasting.csv')
+    df = pd.read_csv(r"Walmart's Inventory Management and Demand Forecasting.csv")
     
     # menampilakn 10 data teratas
     st.header('Displaying the top 5 data')
@@ -155,7 +155,7 @@ def run():
 
             8. **Unemployment Rate:** Although there's less significant correlation between the unemployment rate and weekly sales, a tendency was found that weekly sales tend to increase when the unemployment rate ranges between 7.00 to 9.00. This might suggest potential sales growth when the unemployment rate is at those levels. One possible reason could be that within this range, consumers have more income allowing them to make more purchases. Proper marketing strategies are required to capture this opportunity.
 
-            9. **Store Type:** There is a fairly significant correlation between store type and weekly sales, where store type B has the highest average sales, followed by type A and type C with the lowest sales.
+            9. **Store Type:** There is a significant correlation between store type and weekly sales. Store type A exhibits the highest average sales, followed by type B, while type C shows the lowest sales. This insight correlates with the influence of store size on weekly sales, indicating that stores with larger sizes tend to yield higher weekly sales.
 
             These findings illustrate various factors related to weekly sales and provide insights into their influence on store performance.
             ''')
