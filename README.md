@@ -1,6 +1,6 @@
 **Walmart's Inventory Management and Demand Forecasting**
 
-[Deployment](https://huggingface.co/spaces/michaeln20/FTDS-009-HCK-group-003)
+['[Deployment]'](https://huggingface.co/spaces/michaeln20/FTDS-009-HCK-group-003)
 
 **Members :**
 - Michael Nathaniel
