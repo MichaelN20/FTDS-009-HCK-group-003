@@ -2,7 +2,7 @@
 
 ### **URL:**
 
-[Deployment](https://huggingface.co/spaces/michaeln20/FTDS-009-HCK-group-003) | [Tableau Dashboard](https://public.tableau.com/views/AngkaHarapanHidupInternasional/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Deployment](https://huggingface.co/spaces/michaeln20/FTDS-009-HCK-group-003) | [Data Exploration Dashboard](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/WalmartsInventoryManagementandDemandForecasting/Dashboard1?publish=yes) | [Features Correlation Analysis Dashboard](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/CorrelationAnalysisofWalmartsInventoryManagementandDemandForecasting/Dashboard2?publish=yes) | [Insights of Data Exploration](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/InsightsofWalmartsInventoryManagementandDemandForecasting/Dashboard3?publish=yes)
 
 ### **Members:**
 - Michael Nathaniel
@@ -36,4 +36,14 @@ This repository contains a comprehensive project aimed at developing a robust sa
 
 ### **Conclusion:**
 
-This project endeavors to provide Walmart's management team with an accurate sales forecasting model. By leveraging various factors influencing sales, Walmart aims to optimize inventory management, improve operational efficiency, and ultimately enhance customer satisfaction.
+1. **Seasonal Sales Patterns:**
+    - **Peak Sales Periods:** Notable sales spikes occur during specific periods like Year-end (November-December), Winter-to-Spring transition (February-March), and Summer months (June-August).
+    - **Sales Dips:** Declines are observed during the Spring season (March-May) and the transition from Summer to Fall (August-October).
+
+2. **Impactful Features for Sales Prediction:**
+    - Features such as 'Dept', 'Size', 'Store', 'Date', 'Temperature', 'Fuel_Price', 'MarkDown 1-5', 'Unemployment', and 'Type' display higher correlations with 'Weekly_Sales.' These features are crucial for accurate sales forecasting in model development.
+
+3. **Model Performance Insights:**
+    - **Training Data Evaluation:** The Random Forest model exhibits robust performance on the training dataset with an R-squared score of 97.74%. The model demonstrates a strong ability to predict outcomes, minimizing errors with a Mean Absolute Error (MAE) of 1406.80 units.
+    - **Test Data Evaluation:** On unseen test data, the model maintains commendable performance with an R-squared score of 93.89% and a slightly higher MAE of 2488.92 units. This indicates the model's capacity to generalize well to new data.
+    - **Overfitting Consideration:** While a minor overfitting tendency is observed post hyperparameter tuning, it remains within acceptable limits. Continuous monitoring and adjustments are recommended to mitigate potential escalating concerns.
