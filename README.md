@@ -20,20 +20,6 @@ This repository contains a comprehensive project aimed at developing a robust sa
 - Readme file with comprehensive project details, problem statement, objectives, and conclusions.
 - Requirements.txt file specifying the necessary dependencies for reproducing the project environment.
 
-### **Contents:**
-- Data folder: Contains Walmart sales data and relevant datasets used for analysis.
-- Notebooks folder: Includes Notebooks outlining data preprocessing, exploratory data analysis, model development, and evaluation.
-- Visualizations folder: Contains graphical representations of insights and correlations.
-- README.md: Detailed information about the project, objectives, problem statement, conclusions, and instructions for reproducing the analysis.
-- Requirements.txt: Specifies the required dependencies to run the project.
-
-### **Instructions for Use:**
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies listed in the requirements.txt file.
-3. Navigate through the notebooks to understand the data analysis, modeling techniques, and visualizations.
-4. Run the notebooks to reproduce the analysis or modify them as per requirements.
-5. Refer to the README.md for detailed project insights, conclusions, and recommendations.
-
 ### **Conclusion:**
 
 1. **Seasonal Sales Patterns:**
@@ -47,3 +33,17 @@ This repository contains a comprehensive project aimed at developing a robust sa
     - **Training Data Evaluation:** The Random Forest model exhibits robust performance on the training dataset with an R-squared score of 97.74%. The model demonstrates a strong ability to predict outcomes, minimizing errors with a Mean Absolute Error (MAE) of 1406.80 units.
     - **Test Data Evaluation:** On unseen test data, the model maintains commendable performance with an R-squared score of 93.89% and a slightly higher MAE of 2488.92 units. This indicates the model's capacity to generalize well to new data.
     - **Overfitting Consideration:** While a minor overfitting tendency is observed post hyperparameter tuning, it remains within acceptable limits. Continuous monitoring and adjustments are recommended to mitigate potential escalating concerns.
+
+### **Contents:**
+- Data folder: Contains Walmart sales data and relevant datasets used for analysis.
+- Notebooks folder: Includes Notebooks outlining data preprocessing, exploratory data analysis, model development, and evaluation.
+- Visualizations folder: Contains graphical representations of insights and correlations.
+- README.md: Detailed information about the project, objectives, problem statement, conclusions, and instructions for reproducing the analysis.
+- Requirements.txt: Specifies the required dependencies to run the project.
+
+### **Instructions for Use:**
+1. Clone the repository to your local machine.
+2. Install the necessary dependencies listed in the requirements.txt file.
+3. Navigate through the notebooks to understand the data analysis, modeling techniques, and visualizations.
+4. Run the notebooks to reproduce the analysis or modify them as per requirements.
+5. Refer to the README.md for detailed project insights, conclusions, and recommendations.
