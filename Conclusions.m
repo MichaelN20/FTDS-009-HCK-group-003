@@ -1,4 +1,4 @@
-### **Conclusion:**
+### **Conclusion
 
 1. **Seasonal Sales Patterns:**
     - **Peak Sales Periods:** Notable sales spikes occur during specific periods like Year-end (November-December), Winter-to-Spring transition (February-March), and Summer months (June-August).
